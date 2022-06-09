@@ -35,6 +35,7 @@ export class EmpresasComponent implements OnInit {
       ),
     ]),
   });
+  
 
   ngOnInit() {
     this.GetEmpresas();
